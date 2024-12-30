@@ -1,2 +1,0 @@
-# awesome-llm
-test
